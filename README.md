@@ -43,13 +43,6 @@ You can find the ground truth communities in:
 
 ​	```$ ./data/synl2/Layer1.gen```
 ​	```$ ./data/synl2/Layer2.gen```
-## Configuration Details
-In config file, each row include a pair of Parameter:Value . see 'config/synl2.config' as an example.
-
-| Parameter | Description |
-| --------- | ----------- |
-|           |             |
-
 #### TIPS
 
 The weakening method 'ReduceWeight' in paper indicates the 'Frameworks' should be 'Reduce++' and the 'WeightedGraph' should be TRUE.
